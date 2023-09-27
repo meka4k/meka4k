@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Turkiye</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" >
 
-- 🎓 Computer Engineer graduate at [Iskenderun Technical University](https://iste.edu.tr/)
+- 🎓 Computer Engineer graduate at [Iskenderun Technical University](https://iste.edu.tr/) 07/2023
 
 - 🌱 I’m currently learning **.Net Core**
 
